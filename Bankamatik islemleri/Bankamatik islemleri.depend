@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571892727 source:c:\users\emre\desktop\deneme_ilk\deneme_2\bankamatik islemleri\main.c
+	<stdio.h>
+	<stdlib.h>
+
