@@ -4,3 +4,4 @@ This project make ATM transaction.
 - Deposit money
 - Withdraw money
 - Money transfer
+This is my school project. I made this project in Turkish.
